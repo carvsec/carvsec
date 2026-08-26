@@ -1,9 +1,8 @@
-```markdown
 ## Olá, eu sou o Pedro 👋
 
 🛡️ Estudante de segurança da informação em transição para a área de **Blue Team / SOC**.
 🎯 Objetivo: atuar como **Analista de SOC** e evoluir para **Cyber Security Engineer**.
-📍 Base: Santos / São Paulo· Aberto a vagas presenciais/híbridas na região e 100% remotas.
+📍 Base: Santos / São Paulo · Aberto a vagas presenciais/híbridas na região e 100% remotas.
 
 Estou construindo minha base em segurança defensiva com prática hands-on: análise de
 tráfego, SIEM, detecção com IDS, triagem de alertas e um home lab de detecção próprio.
