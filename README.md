@@ -2,7 +2,7 @@
 
  Estudante de segurança da informação em transição para a área de Blue Team e SOC.
  
- Objetivo: atuar como Analista de SOC e evoluir para Cyber Security Engineer.
+ Objetivo: atuar como Analista de SOC e evoluir para Cloud Security Engineer.
 
  Base: Santos e São Paulo · Aberto a vagas presenciais ou híbridas na região e 100% remotas.
 
