@@ -8,7 +8,7 @@
 
 Estou construindo minha base em segurança defensiva com prática hands-on: análise de
 tráfego, SIEM, detecção com IDS, triagem de alertas e um home lab de detecção próprio.
-Documento tudo em writeups, porque no SOC saber comunicar vale tanto quanto saber técnica.
+Documento tudo em writeups.
 
 ### No que estou mexendo
 - **Defensivo e SOC:** TryHackMe, com Cyber Security 101 concluído e SOC Level 1 em andamento, além de LetsDefend
