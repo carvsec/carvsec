@@ -1,4 +1,4 @@
-## Hello, eu sou o Pedro 
+## Hello
 
  Estudante de segurança da informação em transição para a área de Blue Team e SOC.
  
