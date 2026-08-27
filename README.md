@@ -13,7 +13,7 @@ Documento tudo em writeups.
 ### No que estou mexendo
 - **Defensivo e SOC:** TryHackMe, com Cyber Security 101 concluído e SOC Level 1 em andamento, além de LetsDefend
 - **Detecção:** Snort para IDS, Splunk, Elastic, análise com Wireshark e tcpdump
-- **Cloud:** AWS, com labs de EC2 e RDS, estudando para a certificação Cloud Practitioner
+- **Cloud:** AWS, com labs práticos e estudando para a certificação Cloud Practitioner
 - **Em construção:** home lab de detecção com Sysmon, SIEM e simulação de ataques mapeados no MITRE ATT&CK
 
 ### Portfólio
